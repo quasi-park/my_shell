@@ -1,4 +1,3 @@
-//61510180 鈴木慶汰
 #include "shell.h"
 
 //Prototypes
